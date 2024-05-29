@@ -1,30 +1,18 @@
-# React + TypeScript + Vite
+# Coffe Delivery (desenvolvimento)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+O projeto Coffee Delivery é uma aplicação desenvolvida como parte da trilha Ignite da Rocketseat. A aplicação simula um sistema de entrega de cafés, oferecendo uma experiência de compra fluida e moderna. Utilizando as tecnologias mais recentes do ecossistema JavaScript, o projeto destaca-se pela sua performance e usabilidade.
 
-Currently, two official plugins are available:
+# Principais funcionalidades:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Catálogo de Produtos: Exibição de uma variedade de cafés com informações detalhadas, incluindo nome, descrição, preço e imagem.
+Carrinho de Compras: Adição, remoção e atualização de itens no carrinho com totalização automática.
+Checkout: Formulário para inserção de dados de entrega e método de pagamento, finalizando a compra.
+Responsividade: Interface adaptável para diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
+Tecnologias Utilizadas:
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+React: Biblioteca para construção de interfaces de usuário.
+TypeScript: Superconjunto do JavaScript, adicionando tipagem estática para maior segurança e escalabilidade do código.
+React Hook Form: Biblioteca para gerenciamento de formulários com validação.
+React Router: Biblioteca para controle de navegação e rotas.
+Context API: Gerenciamento de estado global da aplicação.
+Este projeto demonstra minhas habilidades em desenvolvimento front-end e o conhecimento adquirido na trilha Ignite da Rocketseat. Através do Coffee Delivery, pude aplicar conceitos modernos e boas práticas de desenvolvimento para criar uma aplicação eficiente e intuitiva.
