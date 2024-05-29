@@ -11,10 +11,10 @@ O projeto Coffee Delivery é uma aplicação desenvolvida como parte da trilha I
 
 # Tecnologias Utilizadas:
 
-**React:** Biblioteca para construção de interfaces de usuário.
-**TypeScript:** Superconjunto do JavaScript, adicionando tipagem estática para maior segurança e escalabilidade do código.
-**React Hook Form:** Biblioteca para gerenciamento de formulários com validação.
-**React Router:** Biblioteca para controle de navegação e rotas.
-**Context API:** Gerenciamento de estado global da aplicação.
-**Styled Components:** Biblioteca para estilização de componentes usando CSS-in-JS, permitindo escrita de estilos diretamente no JavaScript.
+- **React:** Biblioteca para construção de interfaces de usuário.
+- **TypeScript:** Superconjunto do JavaScript, adicionando tipagem estática para maior segurança e escalabilidade do código.
+- **React Hook Form:** Biblioteca para gerenciamento de formulários com validação.
+- **React Router:** Biblioteca para controle de navegação e rotas.
+- **Context API:** Gerenciamento de estado global da aplicação.
+- **Styled Components:** Biblioteca para estilização de componentes usando CSS-in-JS, permitindo escrita de estilos diretamente no JavaScript.
 Este projeto demonstra minhas habilidades em desenvolvimento front-end e o conhecimento adquirido na trilha Ignite da Rocketseat. Através do Coffee Delivery, pude aplicar conceitos modernos e boas práticas de desenvolvimento para criar uma aplicação eficiente e intuitiva.
